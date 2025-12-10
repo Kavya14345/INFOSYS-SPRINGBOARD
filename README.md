@@ -1,6 +1,6 @@
 # 🧾 **SpendGenie – AI-Based Personal Expense Tracking & Forecasting Tool**
 
-### *Infosys Springboard Virtual Internship 6.0 – Batch 3*
+### *Infosys Springboard Virtual Internship 6.0 – Batch 4*
 
 SpendGenie is an AI-powered personal finance assistant that helps users **track expenses, analyze spending patterns, and forecast future financial trends** using machine learning. It provides a clean, user-friendly interface with smart dashboards, automated data processing, and predictive analytics to support better financial decision-making.
 
